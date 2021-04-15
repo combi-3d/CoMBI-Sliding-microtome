@@ -5,7 +5,7 @@
   1. Photosensors (Omron, EE-SY310 or EE-SY410 detect the handle of the microtome.
   2. Optocouplers (Toshiba, TLP785GB) fix focus (half-push), and release shutter, when the handle passing above the sensors.
   3. DIP switch 1 selects photoreflector type (HIGH = Omron EE-SY310, LOW = Omron EE-SY310).
-  4. DIP switch 2 selects the direction of the handle when the shutter is released (HIGH = going back, LOW = going forward).
+  4. DIP switch 2 selects the direction of the handle when the shutter is released (HIGH = going back(default), LOW = going forward).
   5. Push switches (alt, temp) are used to start serial imaging, or mamual camera control.
   6. LEDs indicate; executing serial imaging, detecting handle, fixing focus (half-push) and releasing shutter. 
  
