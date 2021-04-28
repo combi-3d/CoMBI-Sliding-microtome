@@ -1,6 +1,6 @@
 # CoMBI-S (sliding microtome) 
 
-1. STL file for making a white attachment of paraffin block by 3D printer (Fig. 4, designed by Josephine Galipon and Hiroyoshi Shirahata). Choose filament color as you need as a background color. In our report, we made bases in white, and also add white crayon into paraffin, to get better contrast between specimen and background.
+1. STL file for making a white attachment of paraffin block by 3D printer (Fig. 4, designed by Josephine Galipon and Hiroyoshi Shirahata). Choose filament color as you need as a background color. In our report, we made attachments in white, and also add white crayon into paraffin, to get better contrast between specimen and background.
 
 2. Arduino sketch for CoMBI-S low-cost system (Suppl. Fig. S2, written by Tohru Murakami)
 
