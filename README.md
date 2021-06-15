@@ -13,4 +13,4 @@
    Set the radius of one part to 40mm, or the size of all 8 parts to 158 x 81 mm. Make a countersink at the bottom of "bottom plate".
 
 
-(2021.3 submitted, 2021.4 in revision.)
+(2021.3 submitted, 2021.4 in revision, 2021.6 accepted. Scientific Reports)
